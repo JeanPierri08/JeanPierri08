@@ -1,3 +1,5 @@
+<h2 align="left">I code with</h2>
+
 💼 Sobre Mim
 
 Sou um desenvolvedor front-end em início de carreira, com sólida formação em HTML, CSS e JavaScript, além de experiência prática com React, Tailwind CSS e Git. Tenho foco em criar interfaces responsivas, acessíveis e bem estruturadas, sempre alinhadas às boas práticas de desenvolvimento moderno.
