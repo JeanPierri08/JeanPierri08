@@ -1,4 +1,4 @@
-<h1 align="left">Jean Pierre</h1>
+<h1 align="left">🧑🏿‍💻 Jean Pierre</h1>
 
 💼 Sobre Mim
 
