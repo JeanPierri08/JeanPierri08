@@ -4,8 +4,6 @@
 
 Sou um desenvolvedor front-end em início de carreira, com sólida formação em HTML, CSS e JavaScript, além de experiência prática com React, Tailwind CSS e Git. Tenho foco em criar interfaces responsivas, acessíveis e bem estruturadas, sempre alinhadas às boas práticas de desenvolvimento moderno.
 
-<a href="https://instagram.com/@jean_reis08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jean_reis08" height="30" width="40" /></a>
-
 Atualmente, estou em constante aprimoramento, acompanhando as tendências do mercado e me dedicando a projetos próprios para consolidar meus conhecimentos técnicos. Tenho facilidade em aprender, sou comprometido com a qualidade do que desenvolvo e busco oportunidades que me permitam crescer profissionalmente enquanto contribuo com soluções reais e eficientes.
 
 Meu objetivo é integrar uma equipe de tecnologia onde eu possa evoluir como desenvolvedor, agregar valor com minhas habilidades e colaborar ativamente no desenvolvimento de produtos impactantes.
@@ -40,5 +38,6 @@ Meu objetivo é integrar uma equipe de tecnologia onde eu possa evoluir como des
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+<a href="https://instagram.com/@jean_reis08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jean_reis08" height="30" width="40" /></a>
 
 ###
