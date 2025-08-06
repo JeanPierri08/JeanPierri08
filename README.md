@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">💼 Sobre Mim</h2>
+<h3 align="left">💼 Desenvolvedor Front-End</h3>
 
 ###
 
