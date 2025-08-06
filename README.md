@@ -1,43 +1,60 @@
-<h1 align="left">🧑🏿‍💻 Jean Pierre</h1>
-
-💼 Sobre Mim
-
-Sou um desenvolvedor front-end em início de carreira, com sólida formação em HTML, CSS e JavaScript, além de experiência prática com React, Tailwind CSS e Git. Tenho foco em criar interfaces responsivas, acessíveis e bem estruturadas, sempre alinhadas às boas práticas de desenvolvimento moderno.
-
-Atualmente, estou em constante aprimoramento, acompanhando as tendências do mercado e me dedicando a projetos próprios para consolidar meus conhecimentos técnicos. Tenho facilidade em aprender, sou comprometido com a qualidade do que desenvolvo e busco oportunidades que me permitam crescer profissionalmente enquanto contribuo com soluções reais e eficientes.
-
-Meu objetivo é integrar uma equipe de tecnologia onde eu possa evoluir como desenvolvedor, agregar valor com minhas habilidades e colaborar ativamente no desenvolvimento de produtos impactantes.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanPierri08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph"  />
-</div>
-
+<h2 align="left">🧑🏿‍💻 Jean Pierri</h2>
 
 ###
 
+<h2 align="left">💼 Sobre Mim</h2>
+
+###
+
+<p align="left">Sou um desenvolvedor front-end em início de carreira, com sólida formação em HTML, CSS e JavaScript, além de experiência prática com React, Next.js, Tailwind CSS e Git . Tenho foco em criar interfaces responsivas, acessíveis e bem estruturadas, sempre alinhadas às boas práticas de desenvolvimento moderno.<br><br>Atualmente, estou em constante aprimoramento, acompanhando as tendências do mercado e me dedicando a projetos próprios para consolidar meus conhecimentos técnicos. Tenho facilidade em aprender, sou comprometido com a qualidade do que desenvolvo e busco oportunidades que me permitam crescer profissionalmente enquanto contribuo com soluções reais e eficientes.<br><br>Meu objetivo é integrar uma equipe de tecnologia onde eu possa evoluir como desenvolvedor, agregar valor com minhas habilidades e colaborar ativamente no desenvolvimento de produtos impactantes.</p>
+
+###
+
+<h2 align="left">Linguagens E Tecnologias</h2>
+
+###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
 </div>
 
-<a href="https://instagram.com/@jean_reis08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jean_reis08" height="30" width="40" /></a>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanPierri08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph"  />
+</div>
+
+###
+
+###
+
+<h2 align="left">Redes De Contatos</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="66" height="50" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="66" height="50" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="66" height="50" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="66" height="50" alt="instagram logo"  />
+</div>
 
 ###
