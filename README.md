@@ -1,4 +1,4 @@
-<h2 align="left">🧑🏿‍💻 Jean Pierri</h2>
+<h2 align="left">🧑🏿‍💻 Olá 👋 Sou Jean Pierri</h2>
 
 ###
 
